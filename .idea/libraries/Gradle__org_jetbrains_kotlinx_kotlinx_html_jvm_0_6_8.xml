@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jetbrains.kotlinx:kotlinx-html-jvm:0.6.8">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/Could not find org.jetbrains.kotlinx:kotlinx-html-jvm:0.6.8." />
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-jvm/0.6.8/bc851e2bb88ee1fb7a027cc0bc9975068b9392a1/kotlinx-html-jvm-0.6.8.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-html-jvm/0.6.8/1c77b73e4815ee911b66810e6dd80c1f9c52b83a/kotlinx-html-jvm-0.6.8-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
